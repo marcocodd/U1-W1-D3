@@ -1,0 +1,21 @@
+.divbody{width:70%;
+        margin-right:auto ;
+        margin-left:auto}
+.logo{width: 20%;}
+#titleid{color: forestgreen;}
+#titlespan{font-weight: 900px;}
+#firsthr{
+    border-color: yellow;
+  }
+  body{font-size: 0.6em;}
+  .articolomain{width:70%;
+    margin-right:auto ;
+    margin-left:auto}
+    #secondohr{border-color:blueviolet;
+    }
+    main{width: 70%;
+      margin-right: auto;
+      margin-left:auto}
+      footer{width:70%;
+        margin-right:auto ;
+        margin-left:auto}
