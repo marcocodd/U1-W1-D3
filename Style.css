@@ -1,8 +1,11 @@
-.divbody{width:70%;
+.divbody{width:60%;
         margin-right:auto ;
-        margin-left:auto}
+        margin-left:auto;
+        text-align: center;
+      }
 .logo{width: 20%;}
-#titleid{color: forestgreen;}
+#titleid{color: forestgreen;
+text-align: center;}
 #titlespan{font-weight: 900px;}
 #firsthr{
     border-color: yellow;
