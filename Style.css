@@ -1,7 +1,12 @@
+
+#idlogo{ text-align: center;
+
+}
+
 .divbody{width:60%;
         margin-right:auto ;
         margin-left:auto;
-        text-align: center;
+        text-align: left;
       }
 .logo{width: 20%;}
 #titleid{color: forestgreen;
